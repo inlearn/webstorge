@@ -1,5 +1,5 @@
 # webstorge django 网盘 文件
-根据https://github.com/swpu-cxm/cloud 修改的django网盘app。
+根据https://github.com/swpu-cxm/cloud 修改的django网盘app,非常感谢原作者。
 
 修改了3个方面
 1. 页面样式，根据自己的需要修改了
